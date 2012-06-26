@@ -1,0 +1,16 @@
+Version Information
+===================
+
+Version:           2010q1-188
+Host spec(s):      i686-pc-linux-gnu i686-mingw32
+Target:            arm-none-eabi
+
+Build Information
+=================
+
+Build date:             20100417
+Build machine:          henry2
+Build operating system: lenny/sid
+Build uname:            Linux henry2 2.6.24-26-server #1 SMP Tue Dec 1 18:26:43 UTC 2009 x86_64 GNU/Linux
+Build user:             julian
+
